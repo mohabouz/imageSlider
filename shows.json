@@ -1,0 +1,75 @@
+{
+  "shows": {
+    "show": [
+      {
+        "link": "One-Piece",
+        "title": "One Piece",
+        "latest_episode": "774",
+        "poster_link": "/json_training/img/one_piece.jpg",
+        "rating": "9.5",
+        "status" : "Ongoing"
+      },
+      {
+        "link": "Naruto",
+        "title": "Naruto",
+        "latest_episode": "220",
+        "poster_link": "/json_training/img/naruto.jpg",
+        "rating": "9.0",
+        "status" : "Finished"
+      },
+      {
+        "link": "Naruto-Shippuden",
+        "title": "Naruto Shippuden",
+        "latest_episode": "478",
+        "poster_link": "/json_training/img/naruto-shippuden.jpg",
+        "rating": "9.3",
+        "status" : "Ongoing"
+      },
+      {
+        "link": "Hajime-No-Ippo",
+        "title": "Hajime No Ippo",
+        "latest_episode": "063",
+        "poster_link": "/json_training/img/hajime_no_ippo.jpg",
+        "rating": "9.0",
+        "status" : "Finished"
+      },
+      {
+        "link": "Hunter X Hunter",
+        "title": "Hunter X Hunter",
+        "latest_episode": "148",
+        "poster_link": "/json_training/img/hunter_x_hunter.jpg",
+        "rating": "9.2",
+        "status" : "Finished"
+      },
+      {
+        "link": "One-Punch-Man",
+        "title": "One Punch Man",
+        "latest_episode": "012",
+        "poster_link": "/json_training/img/one_punch_man.jpg",
+        "rating": "8.5",
+        "status" : "Finished"
+      },{
+        "link": "Death-Note",
+        "title": "Death Note",
+        "latest_episode": "038",
+        "poster_link": "/json_training/img/death_note.jpg",
+        "rating": "9.5"
+      },
+      {
+        "link": "Bakuman",
+        "title": "Bakuman",
+        "latest_episode": "025",
+        "poster_link": "/json_training/img/bakuman.jpg",
+        "rating": "9.0"
+      },
+      {
+        "link": "Amaama-to-Inazuma",
+        "title": "Amaama to Inazuma",
+        "latest_episode": "012",
+        "poster_link": "/json_training/img/amaama_to_inazuma.jpg",
+        "rating": "8.0"
+      }
+
+    ]
+  }
+}
